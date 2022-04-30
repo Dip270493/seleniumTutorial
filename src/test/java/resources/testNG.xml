@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+<parameter name="username" value="Dipanjan" />
+  <test name="Test">
+  
+    <classes>
+      <class name="test.TestSteps"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
