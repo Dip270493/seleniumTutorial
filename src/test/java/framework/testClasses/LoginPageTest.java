@@ -8,7 +8,7 @@ import framework.util.BaseClass;
 public class LoginPageTest extends BaseClass {
 	@Test 
 	public void testLogin() {
-		LoginPage login = new LoginPage(driver);
+		LoginPage login = new LoginPage(driver);//making changes in new branch
 		login.login();
 	}
 }
